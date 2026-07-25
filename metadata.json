@@ -1,0 +1,6 @@
+{
+  "name": "XBrowser",
+  "description": "A modern multi-tab Android browser named XBrowser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
